@@ -1,3 +1,19 @@
+import SearchComponent from './components/SearchSection';
+import {
+  Container
+} from './styles';
+
 export default function CharacterList() {
-  return(<h1>CharacterList</h1>);
+
+  const onSubmit = (value: string) => {
+    console.log(value);
+    // TODO Search Characters
+  };
+
+  return (
+    <Container>
+      <SearchComponent onSubmit={onSubmit} />
+      {/* <div>Table</div> */}
+    </Container>
+  );
 }
