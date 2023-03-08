@@ -34,15 +34,19 @@ export default function PaginationControl() {
       ) : (
         ''
       )}
-      {pageNumbers.slice(startIndex, endIndex).map((page) => (
-        <PaginationNumber
-          key={page}
-          active={currentPage === page}
-          onClick={() => handlePageChange(page)}
-        >
-          {page}
-        </PaginationNumber>
-      ))}
+      {totalPages > 1 ? (
+        pageNumbers.slice(startIndex, endIndex).map((page) => (
+          <PaginationNumber
+            key={page}
+            active={currentPage === page}
+            onClick={() => handlePageChange(page)}
+          >
+            {page}
+          </PaginationNumber>
+        ))
+      ) : (
+        <></>
+      )}
       {pageNumbers.length > 5 && totalPages !== currentPage ? (
         <PaginationNumber onClick={() => handlePerPageChange(true)}>
           {'>>'}
@@ -50,13 +54,16 @@ export default function PaginationControl() {
       ) : (
         ''
       )}
-
-      <PaginationNumber
-        onClick={() => handlePageChange(totalPages)}
-        active={currentPage === totalPages}
-      >
-        {totalPages}
-      </PaginationNumber>
+      {totalPages > 1 ? (
+        <PaginationNumber
+          onClick={() => handlePageChange(totalPages)}
+          active={currentPage === totalPages}
+        >
+          {totalPages}
+        </PaginationNumber>
+      ) : (
+        <></>
+      )}
     </>
   ) : (
     <></>
