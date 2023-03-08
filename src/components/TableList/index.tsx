@@ -11,18 +11,22 @@ import {
 
 interface TableListProps {
   listCharacters: CharactersList[];
+  onNavigateDetails: (characterId: number) => void;
 }
 
-export default function TableList({ listCharacters }: TableListProps) {
+export default function TableList({ listCharacters, onNavigateDetails }: TableListProps) {
   return listCharacters && listCharacters.length > 0 ? (
-    <TableContainer>
+    <TableContainer data-testid="table-list">
       <TableHeader>
         <TableHeaderTitle>Personagem</TableHeaderTitle>
         <TableHeaderTitle>Séries</TableHeaderTitle>
         <TableHeaderTitle>Eventos</TableHeaderTitle>
       </TableHeader>
       {listCharacters.map((character) => (
-        <TableRow key={character.id}>
+        <TableRow 
+          key={character.id} 
+          data-testid="table-row" 
+          onClick={() => onNavigateDetails(character.id)}>
           <TableRowContainer>
             <CharacterTitle
               CharacterTitle={character.name}

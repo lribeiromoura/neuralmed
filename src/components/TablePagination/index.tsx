@@ -3,7 +3,7 @@ import { Container, PaginationWrapper, Wrapper } from './styles';
 
 export default function TablePagination() {
   return (
-    <Container>
+    <Container data-testid="table-pagination">
       <Wrapper>
         <PaginationWrapper>
           <PaginationControl></PaginationControl>

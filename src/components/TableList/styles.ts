@@ -43,6 +43,10 @@ const TableRowContainer = styled.div`
     grid-template-columns: 1fr;
     align-content: initial;
   }
+  &:hover {
+    scale: 1.01;
+    cursor: pointer;
+  }
 `;
 
 const TableHeaderTitle = styled.div`

@@ -9,7 +9,7 @@ export default function AppRouter() {
       <Routes>
         <Route path="/" element={<DefaultPage />} >
           <Route index element={<CharacterList />} />
-          <Route path="/details" element={<CharacterDetails />} />
+          <Route path="/details/:characterId" element={<CharacterDetails />} />
         </Route>
 
       </Routes>

@@ -2,6 +2,7 @@ import styled from 'styled-components';
 interface Props {
   active?: boolean;
 }
+
 const PaginationNumber = styled.li<Props>`
   display: flex;
   justify-content: center;
@@ -20,4 +21,7 @@ const PaginationNumber = styled.li<Props>`
   }
 `;
 
-export { PaginationNumber };
+const PaginationNumberWrapper = styled.div`
+  display: flex;
+`;
+export { PaginationNumber, PaginationNumberWrapper };

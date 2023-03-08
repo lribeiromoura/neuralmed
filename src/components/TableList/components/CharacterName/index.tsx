@@ -11,7 +11,7 @@ export default function CharacterTitle({
   Thumbnail,
 }: CharacterTitleProps) {
   return (
-    <CharacterTitleContainer>
+    <CharacterTitleContainer data-testid="character-title-container">
       <CharacterImg src={Thumbnail.path + '.' +Thumbnail.extension}></CharacterImg>
       <CharacterName>
         {CharacterTitle}

@@ -14,7 +14,7 @@ export default function SearchComponent({ onSubmit }: SearchComponentProps) {
   };
 
   return (
-    <SearchSection>
+    <SearchSection data-testid="search-section">
       <SearchTitle>Busca de personagens</SearchTitle>
       <SearchLabel>Nome do personagem</SearchLabel>
       <form onSubmit={(e) => handleSubmit(e)}>

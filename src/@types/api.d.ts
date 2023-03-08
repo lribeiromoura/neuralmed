@@ -1,9 +1,4 @@
 export interface DefaultResponse {
-  code: int;
-  status: string;
-  copyright: string;
-  attributionText: string;
-  attributionHTML: string;
   data: {
     offset: int;
     limit: int;
@@ -11,5 +6,4 @@ export interface DefaultResponse {
     count: int;
     results: Array;
   };
-  etag: string;
 }

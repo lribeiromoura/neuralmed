@@ -13,6 +13,7 @@ import SearchComponent from '../../components/SearchSection';
 import TablePagination from 'components/TablePagination';
 import PaginationContext from 'context/PaginationContext';
 import { handlePaginationIndex } from './helpers/handlePaginationIndex';
+import { useNavigate } from 'react-router-dom';
 
 export default function CharacterList() {
   const [listCharacters, setListCharacters] = useState<CharactersList[]>([]);
@@ -23,6 +24,7 @@ export default function CharacterList() {
   const [currentPage, setCurrentPage] = useState(1);
   const [startIndex, setStartIndex] = useState(1);
   const [endIndex, setEndIndex] = useState(5);
+  const navigate = useNavigate();
 
   const onSubmit = (characterName: string) => {
     setOffset(0);
@@ -35,17 +37,21 @@ export default function CharacterList() {
     setSearchedText(characterName);
   };
 
+  const onNavigateDetails = (characterId: number) => {
+    navigate(`/details/${characterId}`);
+  };
+
   const searchCharacterByText = async () => {
     const res = await getCharacters(limit, offSet, searchedText);
-    setTotalPages(Math.ceil(res.data.total / res.data.limit));
-    setListCharacters(res.data.results);
+    setTotalPages(Math.ceil(res.total / res.limit));
+    setListCharacters(res.results);
     return res;
   };
 
   const getAllCharactersList = async () => {
     const res = await getCharacters(limit, offSet);
-    setTotalPages(Math.ceil(res.data.total / res.data.limit));
-    setListCharacters(res.data.results);
+    setTotalPages(Math.ceil(res.total / res.limit));
+    setListCharacters(res.results);
     return res;
   };
 
@@ -78,7 +84,9 @@ export default function CharacterList() {
   return (
     <Container>
       <SearchComponent onSubmit={onSubmit} />
-      <TableList listCharacters={listCharacters}></TableList>
+      <TableList 
+        listCharacters={listCharacters} 
+        onNavigateDetails={onNavigateDetails} />
       <PaginationContext.Provider
         value={{
           totalPages,
@@ -89,7 +97,7 @@ export default function CharacterList() {
           endIndex,
         }}
       >
-        <TablePagination></TablePagination>
+        {totalPages > 0 ? <TablePagination></TablePagination> : <></>}
       </PaginationContext.Provider>
     </Container>
   );

@@ -1,4 +1,10 @@
-import { ContainerHeader, UserContainer, UserDescription, UserImgProfile, UserName } from './styles';
+import {
+  ContainerHeader,
+  UserContainer,
+  UserDescription,
+  UserImgProfile,
+  UserName,
+} from './styles';
 import DefaultIcon from 'assets/default-icon.svg';
 
 export default function Header() {
@@ -8,7 +14,9 @@ export default function Header() {
       <UserContainer data-testid="user-container">
         <div>
           <UserName data-testid="user-name">Usuário Teste</UserName>
-          <UserDescription data-testid="user-description">Teste de Front-end</UserDescription>
+          <UserDescription data-testid="user-description">
+            Teste de Front-end
+          </UserDescription>
         </div>
         <div>
           <UserImgProfile data-testid="user-img">UT</UserImgProfile>
