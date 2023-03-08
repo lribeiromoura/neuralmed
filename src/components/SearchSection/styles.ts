@@ -4,6 +4,7 @@ import SearchIcon from 'assets/search-icon.svg';
 const SearchSection = styled.div`
   display: flex;
   flex-direction: column;
+  margin-bottom: 18px;
 `;
 
 const SearchTitle = styled.div`
@@ -18,7 +19,7 @@ const SearchLabel = styled.div`
   font-weight: 500;
   font-size: 20px;
   line-height: 20px;
-  margin-top: 24px;
+  margin-top: 18px;
 `;
 
 const SearchInput = styled.input`
@@ -44,7 +45,7 @@ const SearchInput = styled.input`
     color: #a09999;
     
   }
-  @media (max-width: 768px) {
+  @media (max-width: 999px) {
     width: 100%;
   }
 `;

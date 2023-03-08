@@ -48,9 +48,8 @@ const SearchInput = styled.input`
     display: flex;
     align-items: center;
     color: #a09999;
-    
   }
-  @media (max-width: 768px) {
+  @media (max-width: 999px) {
     width: 100%;
   }
 `;
