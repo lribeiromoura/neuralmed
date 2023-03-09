@@ -1,46 +1,78 @@
-# Getting Started with Create React App
+![Logo of the project](https://uploads-ssl.webflow.com/6320c82a55215f7c37e97f63/6320c82a55215f11f5e97fb2_logotipo-neuralmed.svg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Challenge NeuralMed 
 
-## Available Scripts
+Desafio da companhia NeuralMed para criação de página de busca e listagem de heróis da marvel, utilizando ReactJs com Typescript, styled components para estilos e jest/react-testing-library para testes.
 
-In the project directory, you can run:
+## Live demo
 
-### `npm start`
+Para visualizar a página, navegue até  link abaixo:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```shell
+https://neuralmedtest.netlify.app/
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Instalando 
 
-### `npm test`
+Clone o repositório:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```shell
+git clone https://github.com/lribeiromoura/neuralmed.git
+```
+Navegue até a pasta do projeto:
 
-### `npm run build`
+```shell
+cd neuralmed
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Instale as dependencias:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```shell
+yarn 
+ou
+npm i
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Testes
 
-### `npm run eject`
+Para rodar os testes, utilize o comando abaixo:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+npm run test
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Para coverage, utilize o comando abaixo:
+```
+npm run coverage
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Requisitos funcionais
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Seguindo o layout do [figma](https://www.figma.com/file/w2pptXTXcCrSa6MLyPd1mr/Marvel?node-id=1%3A2855), o solicitado foi as seguinte páginas com os requisitos:
 
-## Learn More
+-   Página de listagem de personagens (home):
+    -   Exibir os 10 primeiros resultados da API;
+    -   Permitir filtrar por nome, pelo campo de busca;
+    -   Paginação
+-   Página de detalhe do personagem:
+    -   Exibir dados do personagem;
+    -   Exibir lista de histórias em quadrinhos do personagem;
+    -   Exibir lista eventos do personagem;
+    -   Exibir lista de séries do personagem;
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Requisitos técnicos
+
+-   Uma SPA “single page application” (REACT);
+-   Não utilizar bibliotecas de UI como: bootstrap, semantic-ui, antdesign, tailwind e etc;
+-   Utilizar API da Marvel ([https://developer.marvel.com/docs](https://developer.marvel.com/docs));
+-   Disponibilizar em uma URL pública do projeto rodando para avaliação;
+-   Disponibilizar código em um repositório público no [Github](https://github.com/);
+-   Seguir o layout do [design](https://www.figma.com/file/w2pptXTXcCrSa6MLyPd1mr/Marvel?node-id=1%3A2855).
+-   Testes unitários
+-   Código organizado
+
+
+## Licensing
+
+"MIT license."
