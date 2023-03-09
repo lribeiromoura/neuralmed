@@ -1,6 +1,4 @@
-![Logo of the project](https://uploads-ssl.webflow.com/6320c82a55215f7c37e97f63/6320c82a55215f11f5e97fb2_logotipo-neuralmed.svg)
-
-# Challenge NeuralMed 
+# Challenge NeuralMed ![Logo of the project](https://lh4.googleusercontent.com/-FoccwX0gAVQ/AAAAAAAAAAI/AAAAAAAAAAA/FmQu-FrSu_o/s44-p-k-no-ns-nd/photo.jpg)
 
 Desafio da companhia NeuralMed para criação de página de busca e listagem de heróis da marvel, utilizando ReactJs com Typescript, styled components para estilos e jest/react-testing-library para testes.
 
