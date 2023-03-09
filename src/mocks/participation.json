@@ -1,0 +1,2755 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2023 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2023 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2023 MARVEL</a>",
+  "etag": "2eef74e6cf984454af306682bab0cecd282ba0b7",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 2661,
+    "count": 20,
+    "results": [
+      {
+        "id": 27238,
+        "digitalId": 0,
+        "title": "Wolverine Saga (2009) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606814-00711",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27238",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/27238/wolverine_saga_2009_7?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/8086",
+          "name": "Wolverine Saga (2009)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-06-11T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/59792",
+              "name": "Cover #59792",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/59793",
+              "name": "Interior #59793",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 104944,
+        "digitalId": 0,
+        "title": "Marvel Masterworks: The Invincible Iron Man Vol. 16 (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2023-02-15T09:05:58-0500",
+        "isbn": "978-1-302-94920-4",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9781302 949204 57500",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 360,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/104944",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/104944/marvel_masterworks_the_invincible_iron_man_vol_16_hardcover?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/36322",
+          "name": "Marvel Masterworks: The Invincible Iron Man Vol. 16 (2023)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2023-02-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-09-05T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 75
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/63ece617db08e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/63ece617db08e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/104944/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/586",
+              "name": "Michael Kelleher",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2027",
+              "name": "Luke Mcdonnell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14088",
+              "name": "Jimmy Porter",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/104944/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/104944/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/230996",
+              "name": "cover from MARVEL MASTERWORKS: THE INVINCIBLE IRON MAN VOL. 16 HC (2023) #16",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/230997",
+              "name": "story from MARVEL MASTERWORKS: THE INVINCIBLE IRON MAN VOL. 16 HC (2023) #16",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/104944/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 95698,
+        "digitalId": 0,
+        "title": "Iron Man Vol. 4: Source Control (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2023-02-15T16:02:12-0500",
+        "isbn": "978-1-302-93270-1",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9781302 932701 51999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 160,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/95698",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/95698/iron_man_vol_4_source_control_trade_paperback?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/32852",
+          "name": "Iron Man Vol. 4: Source Control (2023)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2023-02-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-12-05T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/63ece032c7aab",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/63ece032c7aab",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95698/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14369",
+              "name": "Dotun Akande",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10477",
+              "name": "Benjamin Dewey",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13816",
+              "name": "Angel Unzueta",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14370",
+              "name": "Murewa Ayodele",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+              "name": "Kurt Busiek",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+              "name": "Christopher Cantwell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95698/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95698/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/212460",
+              "name": "cover from IRON MAN VOL. 4 TPB (2022) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/212461",
+              "name": "story from IRON MAN VOL. 4 TPB (2022) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95698/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 100750,
+        "digitalId": 0,
+        "title": "Iron Cat (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2023-01-23T10:12:25-0500",
+        "isbn": "978-1-302-94697-5",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9781302 946975 51799",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 128,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/100750",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/100750/iron_cat_trade_paperback?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/34564",
+          "name": "Iron Cat (2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2023-01-25T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-11-14T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 17.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/63c9b7dcba9cf",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/63c9b7dcba9cf",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/100750/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13471",
+              "name": "Jed Mackay",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7909",
+              "name": "Pere Perez",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/100750/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009185",
+              "name": "Black Cat"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/100750/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/222602",
+              "name": "cover from IRON CAT TPB (2022) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/222603",
+              "name": "story from IRON CAT TPB (2022) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/100750/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 101277,
+        "digitalId": 59267,
+        "title": "Avengers: Electric Rain Infinity Comic (2022) #13",
+        "issueNumber": 13,
+        "variantDescription": "",
+        "description": "The robots have been disarmed, Thor and Iron Man have taken down Hawn Kim, and he's serving a life sentence. But who blew up Hawn Kim's lab, and who else knew about his treasonous plans?",
+        "modified": "2023-01-24T18:42:06-0500",
+        "isbn": "",
+        "upc": "759606204091001311",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 3,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The robots have been disarmed, Thor and Iron Man have taken down Hawn Kim, and he's serving a life sentence. But who blew up Hawn Kim's lab, and who else knew about his treasonous plans?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/101277",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/101277/avengers_electric_rain_infinity_comic_2022_13?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=59267&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/34682",
+          "name": "Avengers: Electric Rain Infinity Comic (2022 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2023-01-25T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-12-28T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-01-25T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/63978d5d4c08c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/63978d5d4c08c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101277/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12798",
+              "name": "Amy Chu",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+              "name": "Vc Travis Lanham",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14513",
+              "name": "Black Monkey",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14512",
+              "name": "Go Yeong-Hun",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11701",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101277/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101277/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223655",
+              "name": "cover from Avengers: Electric Rain Infinity Comic (2022) #13",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223656",
+              "name": "story from Avengers: Electric Rain Infinity Comic (2022) #13",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101277/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 105612,
+        "digitalId": 61820,
+        "title": "Avengers Unlimited Infinity Comic (2022) #30",
+        "issueNumber": 30,
+        "variantDescription": "",
+        "description": "",
+        "modified": "2023-01-23T09:53:37-0500",
+        "isbn": "",
+        "upc": "75960620473103011",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 6,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"Key To A Mystery Part Four.\" Relocating to Camp Hammond, the Avengers are able to discover the common element linking their attackers."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/105612",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/105612/avengers_unlimited_infinity_comic_2022_30?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=61820&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/35600",
+          "name": "Avengers Unlimited Infinity Comic (2022 - 2023)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2023-01-24T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-12-26T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-01-24T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/638f75c108d70",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/638f75c108d70",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/105612/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14434",
+              "name": "Caio Majado",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13449",
+              "name": "Chris Sotomayor",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12390",
+              "name": "Jim Zub",
+              "role": "writer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/105612/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/105612/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/232334",
+              "name": "cover from Avengers Unlimited Infinity Comic (2022) #30",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/232335",
+              "name": "story from Avengers Unlimited Infinity Comic (2022) #30",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/105612/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 101276,
+        "digitalId": 59266,
+        "title": "Avengers: Electric Rain Infinity Comic (2022) #12",
+        "issueNumber": 12,
+        "variantDescription": "",
+        "description": "Both Iron Man and Hawn Kim’s suits ripped apart, the remaining Avengers and White Fox work to stop Kim’s self-destructing robots. Down but not out, Kim has sworn to kill Tony Stark for Hydra. How will Thor and Iron Man and stop him?",
+        "modified": "2023-01-18T06:02:16-0500",
+        "isbn": "",
+        "upc": "759606204091001211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 3,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Both Iron Man and Hawn Kim’s suits ripped apart, the remaining Avengers and White Fox work to stop Kim’s self-destructing robots. Down but not out, Kim has sworn to kill Tony Stark for Hydra. How will Thor and Iron Man and stop him?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/101276",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/101276/avengers_electric_rain_infinity_comic_2022_12?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=59266&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/34682",
+          "name": "Avengers: Electric Rain Infinity Comic (2022 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2023-01-18T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-12-21T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-01-18T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/638a1dd341d27",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/638a1dd341d27",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101276/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12798",
+              "name": "Amy Chu",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+              "name": "Vc Travis Lanham",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14513",
+              "name": "Black Monkey",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14512",
+              "name": "Go Yeong-Hun",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11701",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101276/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101276/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223653",
+              "name": "cover from Avengers: Electric Rain Infinity Comic (2022) #12",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223654",
+              "name": "story from Avengers: Electric Rain Infinity Comic (2022) #12",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101276/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 101275,
+        "digitalId": 59265,
+        "title": "Avengers: Electric Rain Infinity Comic (2022) #11",
+        "issueNumber": 11,
+        "variantDescription": "",
+        "description": "Iron Man and Hawn Kim continue their deadly faceoff, and the rest of the Avengers and White Fox attempt to disarm Kim’s living building robots before they decimate Seoul. How will Iron Man stop Hawn Kim’s killer suit before his own suit implodes?",
+        "modified": "2023-01-10T09:55:49-0500",
+        "isbn": "",
+        "upc": "759606204091001111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 3,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Iron Man and Hawn Kim continue their deadly faceoff, and the rest of the Avengers and White Fox attempt to disarm Kim’s living building robots before they decimate Seoul. How will Iron Man stop Hawn Kim’s killer suit before his own suit implodes?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/101275",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/101275/avengers_electric_rain_infinity_comic_2022_11?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=59265&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/34682",
+          "name": "Avengers: Electric Rain Infinity Comic (2022 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2023-01-11T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-12-14T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-01-11T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/638526bab3220",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/638526bab3220",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101275/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12798",
+              "name": "Amy Chu",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+              "name": "Vc Travis Lanham",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14513",
+              "name": "Black Monkey",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14512",
+              "name": "Go Yeong-Hun",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11701",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101275/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101275/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223651",
+              "name": "cover from Avengers: Electric Rain Infinity Comic (2022) #11",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223652",
+              "name": "story from Avengers: Electric Rain Infinity Comic (2022) #11",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101275/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 101274,
+        "digitalId": 59264,
+        "title": "Avengers: Electric Rain Infinity Comic (2022) #10",
+        "issueNumber": 10,
+        "variantDescription": "",
+        "description": "Quicksilver and the Scarlet Witch arrive in the nick of time. But Hawn’s living building robots are relentless and now he’s set them to self-destruct. Will Iron Man’s sacrifice save them all?",
+        "modified": "2022-12-30T18:55:19-0500",
+        "isbn": "",
+        "upc": "759606204091001011",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 3,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Quicksilver and the Scarlet Witch arrive in the nick of time. But Hawn’s living building robots are relentless and now he’s set them to self-destruct. Will Iron Man’s sacrifice save them all?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/101274",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/101274/avengers_electric_rain_infinity_comic_2022_10?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=59264&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/34682",
+          "name": "Avengers: Electric Rain Infinity Comic (2022 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2023-01-04T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-12-07T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-01-04T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/6384f592bbaa3",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/6384f592bbaa3",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101274/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12798",
+              "name": "Amy Chu",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+              "name": "Vc Travis Lanham",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14513",
+              "name": "Black Monkey",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14512",
+              "name": "Go Yeong-Hun",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11701",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101274/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101274/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223649",
+              "name": "cover from Avengers: Electric Rain Infinity Comic (2022) #10",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223650",
+              "name": "story from Avengers: Electric Rain Infinity Comic (2022) #10",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101274/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 105609,
+        "digitalId": 61817,
+        "title": "Avengers Unlimited Infinity Comic (2022) #27",
+        "issueNumber": 27,
+        "variantDescription": "",
+        "description": "",
+        "modified": "2022-12-30T18:42:43-0500",
+        "isbn": "",
+        "upc": "75960620473102711",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 6,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"Key To A Mystery Part One.\" Iron Man follows a mysterious energy signature that leads him into an ambush—by Wolverine?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/105609",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/105609/avengers_unlimited_infinity_comic_2022_27?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=61817&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/35600",
+          "name": "Avengers Unlimited Infinity Comic (2022 - 2023)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2023-01-03T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-12-05T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-01-03T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/00/637536898f9ed",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/00/637536898f9ed",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/105609/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13155",
+              "name": "Mike Bowden",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13449",
+              "name": "Chris Sotomayor",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13597",
+              "name": "OREN JUNIOR",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12390",
+              "name": "Jim Zub",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/105609/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/105609/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/232328",
+              "name": "cover from Avengers Unlimited Infinity Comic (2022) #27",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/232329",
+              "name": "story from Avengers Unlimited Infinity Comic (2022) #27",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/105609/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 101273,
+        "digitalId": 59263,
+        "title": "Avengers: Electric Rain Infinity Comic (2022) #9",
+        "issueNumber": 9,
+        "variantDescription": "",
+        "description": "Hawn Kim reveals his grand plan to use the living material he’s created to rid the world of the Avengers. Now Hawn holds Iron Man’s life in the balance—will the Avengers find Tony in time?",
+        "modified": "2022-12-28T07:03:48-0500",
+        "isbn": "",
+        "upc": "759606204091000911",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 3,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Hawn Kim reveals his grand plan to use the living material he’s created to rid the world of the Avengers. Now Hawn holds Iron Man’s life in the balance—will the Avengers find Tony in time?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/101273",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/101273/avengers_electric_rain_infinity_comic_2022_9?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=59263&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/34682",
+          "name": "Avengers: Electric Rain Infinity Comic (2022 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-12-28T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-12-28T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/63753766808d4",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/63753766808d4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101273/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12798",
+              "name": "Amy Chu",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+              "name": "Vc Travis Lanham",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14513",
+              "name": "Black Monkey",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14512",
+              "name": "Go Yeong-Hun",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11701",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101273/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101273/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223647",
+              "name": "cover from Avengers: Electric Rain Infinity Comic (2022) #9",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223648",
+              "name": "story from Avengers: Electric Rain Infinity Comic (2022) #9",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101273/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 98391,
+        "digitalId": 0,
+        "title": "Official Handbook Of The Marvel Universe: Update '89 Omnibus (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2022-12-28T09:35:23-0500",
+        "isbn": "978-1-302-93458-3",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9781302 934583 57500",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 544,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/98391",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/98391/official_handbook_of_the_marvel_universe_update_89_omnibus_hardcover?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/33945",
+          "name": "Official Handbook Of The Marvel Universe: Update '89 Omnibus (2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-12-28T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-01-03T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 75
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/63ac50f6762aa",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/63ac50f6762aa",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98391/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+              "name": "Ron Frenz",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/586",
+              "name": "Michael Kelleher",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4451",
+              "name": "Peter Sanderson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98391/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98391/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/217851",
+              "name": "cover from OFFICIAL HANDBOOK OF THE MARVEL UNIVERSE UPDATE '89 OMNIBUS HC FRENZ VENOM COVER (2022) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/217852",
+              "name": "story from OFFICIAL HANDBOOK OF THE MARVEL UNIVERSE UPDATE '89 OMNIBUS HC FRENZ VENOM COVER (2022) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98391/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 106036,
+        "digitalId": 61026,
+        "title": "T.E.S.T. Kitchen Holiday Special Infinity Comic (2022) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "The Season One finale! Tony Stark gives Anna the perfect gift, but one that will spark questions about her future. Featuring a recipe for a delicious and easy to make treat for any holiday celebration!",
+        "modified": "2022-12-16T10:00:33-0500",
+        "isbn": "",
+        "upc": "75960620561500111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 6,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Season One finale! Tony Stark gives Anna the perfect gift, but one that will spark questions about her future. Featuring a recipe for a delicious and easy to make treat for any holiday celebration!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/106036",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/106036/test_kitchen_holiday_special_infinity_comic_2022_1?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=61026&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/36693",
+          "name": "T.E.S.T. Kitchen Holiday Special Infinity Comic (2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-12-24T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-11-21T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-12-24T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/636d14484439e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/636d14484439e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/106036/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14451",
+              "name": "Paul Eschbach",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11701",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14139",
+              "name": "EJ Su",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/106036/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009624",
+              "name": "Tony Stark"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/106036/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/233183",
+              "name": "cover from new series (2022) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/233184",
+              "name": "story from new series (2022) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/106036/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 101271,
+        "digitalId": 59261,
+        "title": "Avengers: Electric Rain Infinity Comic (2022) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": "Hulk arrives just in time to help the Avengers. White Fox finds the source of the rain and rescues Thor, but has their adversary been Hydra this whole time?",
+        "modified": "2022-12-14T01:07:37-0500",
+        "isbn": "",
+        "upc": "759606204091000711",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 3,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Hulk arrives just in time to help the Avengers. White Fox finds the source of the rain and rescues Thor, but has their adversary been Hydra this whole time?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/101271",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/101271/avengers_electric_rain_infinity_comic_2022_7?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=59261&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/34682",
+          "name": "Avengers: Electric Rain Infinity Comic (2022 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-12-14T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-11-16T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-12-14T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/e0/6369326b18384",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/e0/6369326b18384",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101271/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12798",
+              "name": "Amy Chu",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+              "name": "Vc Travis Lanham",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14513",
+              "name": "Black Monkey",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14512",
+              "name": "Go Yeong-Hun",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11701",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101271/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101271/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223643",
+              "name": "cover from Avengers: Electric Rain Infinity Comic (2022) #7",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/223644",
+              "name": "story from Avengers: Electric Rain Infinity Comic (2022) #7",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/101271/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 103378,
+        "digitalId": 61814,
+        "title": "Avengers Unlimited Infinity Comic (2022) #24",
+        "issueNumber": 24,
+        "variantDescription": "",
+        "description": "",
+        "modified": "2022-12-13T04:02:15-0500",
+        "isbn": "",
+        "upc": "75960620473102411",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 6,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"The Doomsday Man Part Four\" – The fate of a world lies in the balance as the Avengers face off against the challenge of the Doomsday Man!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/103378",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/103378/avengers_unlimited_infinity_comic_2022_24?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=61814&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/35600",
+          "name": "Avengers Unlimited Infinity Comic (2022 - 2023)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-12-13T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-11-14T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-12-13T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/6356b8486420a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/6356b8486420a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103378/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8775",
+              "name": "Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8704",
+              "name": "Javier Tartaglia",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/661",
+              "name": "Patch Zircher",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103378/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103378/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/227859",
+              "name": "cover from Avengers Unlimited Infinity Comic (2022) #24",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/227860",
+              "name": "story from Avengers Unlimited Infinity Comic (2022) #24",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103378/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 104683,
+        "digitalId": 61704,
+        "title": "T.E.S.T. Kitchen Infinity Comic (2022) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "",
+        "modified": "2022-12-12T01:29:34-0500",
+        "isbn": "",
+        "upc": "75960620498400411",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 10,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Anna is summoned to Asgard to help Thor’s chefs recreate one of his favorite Midgard dishes. Witness the Asgard Palace Kitchen! Learn to tame the mighty okra! Features a recipe fit for Asgardian gods!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/104683",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/104683/test_kitchen_infinity_comic_2022_4?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=61704&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/36216",
+          "name": "T.E.S.T. Kitchen Infinity Comic (2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-12-12T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-11-14T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-12-12T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/6361759699b8e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/6361759699b8e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/104683/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14451",
+              "name": "Paul Eschbach",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11701",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14139",
+              "name": "EJ Su",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/104683/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/104683/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/230473",
+              "name": "cover from T.E.S.T. Kitchen Infinity Comic (2022) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/230474",
+              "name": "story from T.E.S.T. Kitchen Infinity Comic (2022) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/104683/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 98454,
+        "digitalId": 0,
+        "title": "Secret Invasion (2022) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2023-03-06T10:18:52-0500",
+        "isbn": "",
+        "upc": "75960620251500211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/98454",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/98454/secret_invasion_2022_2?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Secret-Invasion-2/digital-comic/61071?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/33963",
+          "name": "Secret Invasion (2022 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/102686",
+            "name": "Secret Invasion (2022) #2 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-12-07T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-10-31T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/63863ceeafa02",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/63863ceeafa02",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98454/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13098",
+              "name": "Rafael Albuquerque",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12989",
+              "name": "Jordie Bellaire",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13523",
+              "name": "Annalise Bissa",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13602",
+              "name": "Francesco Mobili",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12465",
+              "name": "Ryan North",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98454/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98454/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/217977",
+              "name": "cover from Secret Invasion (2022) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/217978",
+              "name": "story from Secret Invasion (2022) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98454/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 97221,
+        "digitalId": 0,
+        "title": "Marvel Masterworks: The Invincible Iron Man Vol. 15 (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2022-12-07T11:11:36-0500",
+        "isbn": "978-1-302-93336-4",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9781302 933364 57500",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 344,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/97221",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/97221/marvel_masterworks_the_invincible_iron_man_vol_15_hardcover?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/33326",
+          "name": "Marvel Masterworks: The Invincible Iron Man Vol. 15 (2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-12-07T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-06-06T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 75
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/63876f4798658",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/63876f4798658",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/97221/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13580",
+              "name": "All Thumbs Creative",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/586",
+              "name": "Michael Kelleher",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+              "name": "David Michelinie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/97221/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/97221/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/215510",
+              "name": "cover from MARVEL MASTERWORKS: THE INVINCIBLE IRON MAN VOL. 15 HC (2022) #15",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/215511",
+              "name": "story from MARVEL MASTERWORKS: THE INVINCIBLE IRON MAN VOL. 15 HC (2022) #15",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/97221/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 103301,
+        "digitalId": 0,
+        "title": "Iron Man Epic Collection: The Return Of Tony Stark (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2022-11-17T08:50:49-0500",
+        "isbn": "978-1-302-94819-1",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9781302 948191 54499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 488,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/103301",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/103301/iron_man_epic_collection_the_return_of_tony_stark_trade_paperback?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/35587",
+          "name": "Iron Man Epic Collection: The Return Of Tony Stark (2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-11-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-09-05T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 44.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/63754831a99cd",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/63754831a99cd",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 53,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103301/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3389",
+              "name": "Ian Akin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2684",
+              "name": "Jim Amash",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2722",
+              "name": "Scott Benson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13445",
+              "name": "Eliot R. Brown",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3074",
+              "name": "Ralph Cabrera",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+              "name": "Vince Colletta",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+              "name": "Steve Ditko",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2319",
+              "name": "Tim Dzon",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2717",
+              "name": "Fred Fredericks",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+              "name": "Diana Albers",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+              "name": "John Costanza",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1928",
+              "name": "Steve Dutro",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12581",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13261",
+              "name": "Phil Felix",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2112",
+              "name": "Larry Alexander",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3779",
+              "name": "John Czop",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2263",
+              "name": "James Fry",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1935",
+              "name": "Paul Becton",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13897",
+              "name": "Suzanne Del'orto",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+              "name": "Kurt Busiek",
+              "role": "writer"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103301/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103301/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/227705",
+              "name": "cover from IRON MAN EPIC COLLECTION: THE RETURN OF TONY STARK TPB (2022) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/227706",
+              "name": "story from IRON MAN EPIC COLLECTION: THE RETURN OF TONY STARK TPB (2022) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103301/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 106035,
+        "digitalId": 61813,
+        "title": "T.E.S.T. Kitchen Thanksgiving Special Infinity Comic (2022) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "The day after Thanksgiving Chef Anna Ameyama finally has a day off. Learn to make dumplings from your Thanksgiving leftovers!",
+        "modified": "2022-11-18T09:47:19-0500",
+        "isbn": "",
+        "upc": "75960620560800111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 6,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The day after Thanksgiving Chef Anna Ameyama finally has a day off. Learn to make dumplings from your Thanksgiving leftovers!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/106035",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/106035/test_kitchen_thanksgiving_special_infinity_comic_2022_1?utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=61813&utm_campaign=apiRef&utm_source=e7e718c65fc8276c490626851438ee18"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/36692",
+          "name": "T.E.S.T. Kitchen Thanksgiving Special Infinity Comic (2022)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-11-21T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-10-22T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-11-21T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/635840dc5222a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/635840dc5222a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/106035/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14451",
+              "name": "Paul Eschbach",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11701",
+              "name": "Elizabeth Pyle",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8775",
+              "name": "Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14139",
+              "name": "EJ Su",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/106035/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/106035/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/233181",
+              "name": "cover from new series (2022) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/233182",
+              "name": "story from new series (2022) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/106035/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

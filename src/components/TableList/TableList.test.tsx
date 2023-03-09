@@ -1,5 +1,5 @@
 import { fireEvent, render, screen } from '@testing-library/react';
-import { CharactersList } from 'types/characters';
+import { CharacterList } from 'types/characters';
 import mockList from 'mocks/characterList.json';
 import TableList from '.';
 
@@ -17,7 +17,7 @@ describe('Table List', () => {
   });
 
   it('should render with array', () => {
-    const characters: CharactersList[] = mockList.results;
+    const characters: CharacterList[] = mockList.results;
     const navigate = jest.fn();
 
     render(
@@ -35,7 +35,7 @@ describe('Table List', () => {
   });
 
   it('should render with array and call onNavigateDetails', () => {
-    const characters: CharactersList[] = mockList.results;
+    const characters: CharacterList[] = mockList.results;
     const navigate = jest.fn();
 
     render(

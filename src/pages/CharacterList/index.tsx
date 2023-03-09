@@ -6,7 +6,7 @@ import { isValidString } from 'utils/checkStr';
 
 import { getCharacters } from 'services/marvel';
 
-import { CharactersList } from 'types/characters';
+import { CharacterList } from 'types/characters';
 
 import TableList from '../../components/TableList';
 import SearchComponent from '../../components/SearchSection';
@@ -15,8 +15,8 @@ import PaginationContext from 'context/PaginationContext';
 import { handlePaginationIndex } from './helpers/handlePaginationIndex';
 import { useNavigate } from 'react-router-dom';
 
-export default function CharacterList() {
-  const [listCharacters, setListCharacters] = useState<CharactersList[]>([]);
+export default function CharactersList() {
+  const [listCharacters, setListCharacters] = useState<CharacterList[]>([]);
   const [searchedText, setSearchedText] = useState('');
   const [limit] = useState(10);
   const [offSet, setOffset] = useState(0);
