@@ -2,14 +2,15 @@ import { Items } from './items';
 import { Thumbnail } from './thumbnail';
 import { Url } from './url';
 
-export interface CharacterList {
+
+export interface CharacterDetail {
   id: int;
   name: string;
   description: string;
   modified: Date | string;
   resourceURI: string;
   urls: Url[];
-  thumbnail: Thumbnail
+  thumbnail: Thumbnail;
   comics: {
     available: int;
     returned: int;

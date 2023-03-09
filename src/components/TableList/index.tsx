@@ -1,4 +1,4 @@
-import { CharactersList } from 'types/characters';
+import { CharacterList } from 'types/characters';
 import CharacterDetails from './components/CharacterDetails';
 import CharacterTitle from './components/CharacterName';
 import {
@@ -10,7 +10,7 @@ import {
 } from './styles';
 
 interface TableListProps {
-  listCharacters: CharactersList[];
+  listCharacters: CharacterList[];
   onNavigateDetails: (characterId: number) => void;
 }
 

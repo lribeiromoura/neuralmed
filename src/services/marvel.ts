@@ -13,6 +13,38 @@ export async function getCharacters(
   return response.data.data;
 }
 
-export default {
-  getCharacters,
-};
+export async function getCharacterById(
+  characterId: string | undefined
+) {
+  const response = await Api.get<DefaultResponse>(
+    `characters/${characterId}?apikey=${apiKey}`,
+  );
+  return response.data.data;
+}
+
+export async function getEventsByCharacterId(
+  characterId: string | undefined
+) {
+  const response = await Api.get<DefaultResponse>(
+    `characters/${characterId}/events?apikey=${apiKey}`,
+  );
+  return response.data.data;
+}
+
+export async function getComicsByCharacterId(
+  characterId: string | undefined
+) {
+  const response = await Api.get<DefaultResponse>(
+    `characters/${characterId}/comics?apikey=${apiKey}`,
+  );
+  return response.data.data;
+}
+
+export async function getSeriesByCharacterId(
+  characterId: string | undefined
+) {
+  const response = await Api.get<DefaultResponse>(
+    `characters/${characterId}/series?apikey=${apiKey}`,
+  );
+  return response.data.data;
+}
