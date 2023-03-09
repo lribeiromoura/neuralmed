@@ -3,6 +3,7 @@ import { Outlet } from 'react-router-dom';
 import { Container } from './styles';
 
 export default function DefaultPage() {
+
   return (
     <Container data-testid="default-page-component">
       <Header />

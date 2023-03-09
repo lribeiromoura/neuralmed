@@ -5,7 +5,7 @@ const Container = styled.div`
   flex-direction: column;
   padding-left: 124px;
   padding-right: 124px;
-  @media(max-width: 999px) {
+  @media (max-width: 999px) {
     align-items: center;
   }
 `;
@@ -19,13 +19,18 @@ const ItemInfoTitle = styled.div`
   font-weight: 600;
   font-size: 16px;
   line-height: 16px;
-  color: #FFFFFF;
+  color: #ffffff;
 `;
 const ItemInfoSubTitle = styled.div`
+  max-height: 70px;
+  overflow: auto;
   font-weight: 400;
   font-size: 10px;
   line-height: 10px;
-  color: #FFFFFF;
+  color: #ffffff;
+  ::-webkit-scrollbar {
+    display: none;
+  }
 `;
 
 const ItemInfoWrapper = styled.div`

@@ -8,7 +8,11 @@ const ContainerHeader = styled.div`
   background-color: #ffffff;
   padding-left: 32px;
   padding-right: 16px;
-  border-bottom: 1px solid #EBEBEB;
+  border-bottom: 1px solid #ebebeb;
+`;
+
+const Img = styled.img`
+  cursor: pointer;
 `;
 
 const UserContainer = styled.div`
@@ -40,7 +44,14 @@ const UserImgProfile = styled.div`
   font-weight: 600;
   font-size: 20px;
   line-height: 20px;
-  color: #FFFFFF;
+  color: #ffffff;
 `;
 
-export { ContainerHeader, UserContainer, UserName, UserDescription, UserImgProfile };
+export {
+  ContainerHeader,
+  Img,
+  UserContainer,
+  UserName,
+  UserDescription,
+  UserImgProfile,
+};
