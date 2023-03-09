@@ -14,8 +14,10 @@ import TablePagination from 'components/TablePagination';
 import PaginationContext from 'context/PaginationContext';
 import { handlePaginationIndex } from './helpers/handlePaginationIndex';
 import { useNavigate } from 'react-router-dom';
+import Loading from 'components/Loading';
 
 export default function CharactersList() {
+  const [isLoading, setIsLoading] = useState(false);
   const [listCharacters, setListCharacters] = useState<CharacterList[]>([]);
   const [searchedText, setSearchedText] = useState('');
   const [limit] = useState(10);
@@ -42,16 +44,20 @@ export default function CharactersList() {
   };
 
   const searchCharacterByText = async () => {
+    setIsLoading(true);
     const res = await getCharacters(limit, offSet, searchedText);
     setTotalPages(Math.ceil(res.total / res.limit));
     setListCharacters(res.results);
+    setIsLoading(false);
     return res;
   };
 
   const getAllCharactersList = async () => {
+    setIsLoading(true);
     const res = await getCharacters(limit, offSet);
     setTotalPages(Math.ceil(res.total / res.limit));
     setListCharacters(res.results);
+    setIsLoading(false);
     return res;
   };
 
@@ -83,22 +89,29 @@ export default function CharactersList() {
 
   return (
     <Container>
-      <SearchComponent onSubmit={onSubmit} />
-      <TableList 
-        listCharacters={listCharacters} 
-        onNavigateDetails={onNavigateDetails} />
-      <PaginationContext.Provider
-        value={{
-          totalPages,
-          handlePageChange,
-          currentPage,
-          handlePerPageChange,
-          startIndex,
-          endIndex,
-        }}
-      >
-        {totalPages > 0 ? <TablePagination></TablePagination> : <></>}
-      </PaginationContext.Provider>
+      {isLoading ? (
+        <Loading></Loading>
+      ) : (
+        <>
+          <SearchComponent onSubmit={onSubmit} />
+          <TableList
+            listCharacters={listCharacters}
+            onNavigateDetails={onNavigateDetails}
+          />
+          <PaginationContext.Provider
+            value={{
+              totalPages,
+              handlePageChange,
+              currentPage,
+              handlePerPageChange,
+              startIndex,
+              endIndex,
+            }}
+          >
+            {totalPages > 0 ? <TablePagination></TablePagination> : <></>}
+          </PaginationContext.Provider>
+        </>
+      )}
     </Container>
   );
 }

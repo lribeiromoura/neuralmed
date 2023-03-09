@@ -1,5 +1,6 @@
 import {
   ContainerHeader,
+  Img,
   UserContainer,
   UserDescription,
   UserImgProfile,
@@ -8,9 +9,16 @@ import {
 import DefaultIcon from 'assets/default-icon.svg';
 
 export default function Header() {
+  const redirect = () => {
+    window.location.assign('/');
+  };
   return (
     <ContainerHeader data-testid="container-header">
-      <img data-testid="logo-header" src={DefaultIcon} alt="" />
+      <Img
+        data-testid="logo-header"
+        src={DefaultIcon}
+        onClick={redirect}
+      />
       <UserContainer data-testid="user-container">
         <div>
           <UserName data-testid="user-name">Usuário Teste</UserName>

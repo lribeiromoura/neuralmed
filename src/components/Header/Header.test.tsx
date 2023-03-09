@@ -1,6 +1,10 @@
-import { render, screen } from '@testing-library/react';
+import { fireEvent, render, screen } from '@testing-library/react';
 import Header from '.';
+const assignSpy = jest.fn();
 
+Object.defineProperty(window, 'location', {
+  value: { assign: assignSpy },
+});
 
 describe('Header Component', () => {
   it('should render correctly', () => {
@@ -10,11 +14,11 @@ describe('Header Component', () => {
     expect(header).toBeInTheDocument();
   });
 
-  it('should render logo correctly', () => {
+  it('should render logo correctly and click', () => {
     render(<Header></Header>);
     const logo = screen.getByTestId('logo-header');
-
-    expect(logo).toBeInTheDocument();
+    fireEvent.click(logo);
+    expect(window.location.assign).toHaveBeenCalled();
   });
 
   it('should render user name, user description and user img', () => {
@@ -26,6 +30,5 @@ describe('Header Component', () => {
     expect(userName).toBeInTheDocument();
     expect(userDescription).toBeInTheDocument();
     expect(userImg).toBeInTheDocument();
-
   });
 });

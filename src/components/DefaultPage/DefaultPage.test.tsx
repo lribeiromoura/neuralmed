@@ -1,7 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import DefaultPage from '.';
 
-
 describe('Default Page Component', () => {
   it('should render correctly', () => {
     render(<DefaultPage></DefaultPage>);
